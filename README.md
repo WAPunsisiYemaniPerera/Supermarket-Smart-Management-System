@@ -24,16 +24,6 @@ This project aims to provide actionable insights for supermarket management thro
 * **Model Persistence:**
     * `pickle` and `joblib` for saving and loading trained models.
 
-## 📂 Repository Structure
-
-.
-├── model_training.ipynb      # Jupyter notebook with all the analysis and model development
-├── requirements.txt          # A list of the Python packages required to run this project
-├── best_profit_model.pkl     # Saved model for profit prediction
-├── best_loyalty_model.pkl    # Saved model for loyalty member identification
-└── README.md                 # This file
-
-
 ## 🚀 How to Get Started
 
 1.  **Clone the repository:**
